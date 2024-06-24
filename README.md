@@ -24,3 +24,6 @@ Contruí una app con un propóstito directo y convincente. Cumple con todo lo qu
 * Este también es un buen lugar para reflexionar sobre las herramientras y recursos que utilizaste y aprendiste
 
 Considero que debo revisar mas información y prácticar mas para que no tenga mayores problemas en los siguientes laboratorios. 
+
+Adjunto puntuacion del  Lighthouse:
+![alt text](image.png)
